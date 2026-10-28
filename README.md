@@ -1,6 +1,11 @@
 # 📊 Análise de Vendas E-commerce — Olist
 
 Projeto de análise de dados desenvolvido em **Power BI** utilizando dados públicos da Olist.
+## 📊 Dashboard
+
+![Dashboard Olist](01_dashboard_completo_olist.png)
+
+[📄 Ver portfólio completo em PDF](Portfolio_Olist_Vinicius_Santos_da_Silva.pdf)
 
 O objetivo foi transformar dados brutos de vendas em um dashboard interativo para acompanhar indicadores comerciais e facilitar a análise do desempenho do e-commerce.
 
